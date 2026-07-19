@@ -34,13 +34,13 @@
 resccrew
 
 > class
-Developer
+entrepreneur 
 
 > current_quest
 Building things worth shipping.
 
 > inventory
-[ curiosity ]  [ coffee ]  [ terminal ]  [ 8-bit dreams ]
+[ espresso ]  [ claude code ]  [ velo ]  [ lock in ]
 ```
 
 <br/>
