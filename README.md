@@ -49,12 +49,7 @@ Building things worth shipping.
 
 ### 📊 &nbsp;STATS SCREEN
 
-<img src="https://github-readme-stats.vercel.app/api?username=resccrew&show_icons=true&hide_border=true&bg_color=135,ff9166,6b3a54&title_color=ffb37e&icon_color=ff6f61&text_color=fff5e9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=resccrew&layout=compact&hide_border=true&bg_color=135,ff9166,6b3a54&title_color=ffb37e&text_color=fff5e9" height="165"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=resccrew&hide_border=true&background=241623&ring=ff6f61&fire=ffb37e&currStreakLabel=fff5e9&sideLabels=ffb37e&dates=c9a9b0" />
-
-<sub>⚠️ карточки статистики тянутся с публичного бесплатного сервиса — иногда он перегружен и отвечает ошибкой на пару минут, это не баг репозитория, просто обнови страницу</sub>
 
 </div>
 
