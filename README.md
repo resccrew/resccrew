@@ -1,29 +1,33 @@
 <!--
-  Персональный pixel-art / retro-gaming профиль.
+  Персональный pixel-art / synthwave-sunset профиль.
   Хочешь поменять текст HUD или ник — просто отредактируй строки ниже,
   никаких внешних данных подтягивать не нужно, всё лежит прямо в этом файле.
+  Баннеры (assets/skyline.svg, assets/skyline-footer.svg) нарисованы вручную
+  и хранятся в этом репозитории — не зависят от сторонних сервисов.
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:7b2cbf,100:ff2e97&height=220&section=header&text=RESCCREW&fontSize=60&fontColor=00fff5&fontAlignY=35&animation=fadeIn&desc=%3E%20INSERT%20COIN%20TO%20CONTINUE&descAlignY=55&descSize=18" width="100%"/>
+<img src="assets/skyline.svg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=00FFF5&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=110&lines=LOADING+PROFILE...;PLAYER+ONE+READY;PRESS+START+%F0%9F%95%B9%EF%B8%8F" />
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFB37E&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=110&lines=LOADING+PROFILE...;PLAYER+ONE+READY;PRESS+START+%F0%9F%95%B9%EF%B8%8F" />
 
 <br/>
 
-![HP](https://img.shields.io/badge/HP-100%2F100-ff2e97?style=for-the-badge&labelColor=0d0221)
-![MP](https://img.shields.io/badge/MP-99%2F99-00fff5?style=for-the-badge&labelColor=0d0221)
-![LVL](https://img.shields.io/badge/LVL-99-7b2cbf?style=for-the-badge&labelColor=0d0221)
-![STATUS](https://img.shields.io/badge/STATUS-ONLINE-39ff14?style=for-the-badge&labelColor=0d0221)
+![HP](https://img.shields.io/badge/HP-100%2F100-ff6f61?style=for-the-badge&labelColor=241623)
+![MP](https://img.shields.io/badge/MP-99%2F99-ffb37e?style=for-the-badge&labelColor=241623)
+![LVL](https://img.shields.io/badge/LVL-99-7c5b6b?style=for-the-badge&labelColor=241623)
+![STATUS](https://img.shields.io/badge/STATUS-ONLINE-39ff14?style=for-the-badge&labelColor=241623)
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0221&height=3&section=header" width="100%"/>
+<div align="center">
 
 ### 🕹️ &nbsp;PLAYER LOG
+
+</div>
 
 ```
 > whoami
@@ -39,18 +43,18 @@ Building things worth shipping.
 [ curiosity ]  [ coffee ]  [ terminal ]  [ 8-bit dreams ]
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0221&height=3&section=header" width="100%"/>
-
 <br/>
 
 <div align="center">
 
 ### 📊 &nbsp;STATS SCREEN
 
-<img src="https://github-readme-stats.vercel.app/api?username=resccrew&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d0221&title_color=00fff5&icon_color=ff2e97&text_color=e0e0e0" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=resccrew&layout=compact&theme=synthwave&hide_border=true&bg_color=0d0221&title_color=00fff5&text_color=e0e0e0" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=resccrew&show_icons=true&hide_border=true&bg_color=135,ff9166,6b3a54&title_color=ffb37e&icon_color=ff6f61&text_color=fff5e9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=resccrew&layout=compact&hide_border=true&bg_color=135,ff9166,6b3a54&title_color=ffb37e&text_color=fff5e9" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=resccrew&theme=midnight-purple&hide_border=true&background=0d0221&ring=ff2e97&fire=00fff5&currStreakLabel=00fff5" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=resccrew&hide_border=true&background=241623&ring=ff6f61&fire=ffb37e&currStreakLabel=fff5e9&sideLabels=ffb37e&dates=c9a9b0" />
+
+<sub>⚠️ карточки статистики тянутся с публичного бесплатного сервиса — иногда он перегружен и отвечает ошибкой на пару минут, это не баг репозитория, просто обнови страницу</sub>
 
 </div>
 
@@ -60,7 +64,10 @@ Building things worth shipping.
 
 ### 🏆 &nbsp;ACHIEVEMENTS
 
-<img src="https://github-profile-trophy.vercel.app/?username=resccrew&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" />
+![100 DAYS](https://img.shields.io/badge/🔥-100_DAYS_STREAK-ff6f61?style=for-the-badge&labelColor=241623)
+![NIGHT OWL](https://img.shields.io/badge/🌙-NIGHT_OWL-e8524a?style=for-the-badge&labelColor=241623)
+![COMMIT MASTER](https://img.shields.io/badge/💾-COMMIT_MASTER-c1443c?style=for-the-badge&labelColor=241623)
+![OG PLAYER](https://img.shields.io/badge/🕹️-OG_PLAYER-ffb37e?style=for-the-badge&labelColor=241623)
 
 </div>
 
@@ -78,9 +85,9 @@ Building things worth shipping.
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=resccrew&color=ff2e97&style=for-the-badge&label=VISITORS&labelColor=0d0221)
+![Profile views](https://komarev.com/ghpvc/?username=resccrew&color=ff6f61&style=for-the-badge&label=VISITORS&labelColor=241623)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2e97,50:7b2cbf,100:0d0221&height=150&section=footer&animation=fadeIn" width="100%"/>
+<img src="assets/skyline-footer.svg" width="100%"/>
 
 **`> GAME OVER? NOT YET.`**
 

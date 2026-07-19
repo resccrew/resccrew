@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" width="900" height="260">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffe8c9"/>
+      <stop offset="35%" stop-color="#ffb37e"/>
+      <stop offset="65%" stop-color="#ff7b6e"/>
+      <stop offset="100%" stop-color="#6b3a54"/>
+    </linearGradient>
+    <linearGradient id="sun" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fff3b0"/>
+      <stop offset="45%" stop-color="#ffb37e"/>
+      <stop offset="100%" stop-color="#e8524a"/>
+    </linearGradient>
+    <clipPath id="sunClip">
+      <circle cx="450" cy="150" r="72"/>
+    </clipPath>
+  </defs>
+
+  <rect width="900" height="260" fill="url(#sky)"/>
+
+  <path d="M90,45 l7,-7 l7,7" stroke="#6b3a54" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M115,60 l7,-7 l7,7" stroke="#6b3a54" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M760,55 l7,-7 l7,7" stroke="#6b3a54" stroke-width="3" fill="none" stroke-linecap="round"/>
+
+  <circle cx="450" cy="150" r="72" fill="url(#sun)"/>
+  <g clip-path="url(#sunClip)">
+    <rect x="378" y="168" width="144" height="6" fill="#ffb37e"/>
+    <rect x="378" y="181" width="144" height="6" fill="#ff8f6e"/>
+    <rect x="378" y="195" width="144" height="7" fill="#ff6f61"/>
+    <rect x="378" y="210" width="144" height="8" fill="#e8524a"/>
+    <rect x="378" y="226" width="144" height="10" fill="#c1443c"/>
+  </g>
+
+  <polygon points="0,260 0,195 110,120 210,175 300,100 400,165 500,105 610,180 710,125 820,175 900,150 900,260"
+           fill="#7c5b6b" opacity="0.9"/>
+
+  <polygon points="0,260 0,225 100,160 190,215 290,165 410,220 510,155 630,210 750,165 900,205 900,260"
+           fill="#3d2b3d"/>
+
+  <rect x="0" y="232" width="900" height="28" fill="#241623"/>
+  <rect x="0" y="244" width="900" height="4" fill="#ffb37e" opacity="0.5"/>
+
+  <g>
+    <rect x="60" y="210" width="76" height="18" fill="#161016"/>
+    <rect x="76" y="196" width="42" height="16" fill="#161016"/>
+    <rect x="82" y="199" width="12" height="9" fill="#ffb37e"/>
+    <rect x="98" y="199" width="12" height="9" fill="#ffb37e"/>
+    <circle cx="78" cy="230" r="9" fill="#161016"/>
+    <circle cx="120" cy="230" r="9" fill="#161016"/>
+    <circle cx="78" cy="230" r="3" fill="#7c5b6b"/>
+    <circle cx="120" cy="230" r="3" fill="#7c5b6b"/>
+    <rect x="132" y="213" width="5" height="5" fill="#fff3b0"/>
+  </g>
+
+  <text x="452" y="47" font-family="'Courier New', Courier, monospace" font-weight="700" font-size="46" letter-spacing="8" text-anchor="middle" fill="#241623" opacity="0.55">RESCCREW</text>
+  <text x="450" y="44" font-family="'Courier New', Courier, monospace" font-weight="700" font-size="46" letter-spacing="8" text-anchor="middle" fill="#fff5e9">RESCCREW</text>
+</svg>
