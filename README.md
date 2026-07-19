@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="assets/skyline.svg" width="100%"/>
+<img src="assets/skyline.svg?v=2" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFB37E&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=110&lines=LOADING+PROFILE...;PLAYER+ONE+READY;PRESS+START+%F0%9F%95%B9%EF%B8%8F" />
 
