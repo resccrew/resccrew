@@ -47,29 +47,6 @@ Building things worth shipping.
 
 <div align="center">
 
-### 📊 &nbsp;STATS SCREEN
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=resccrew&hide_border=true&background=241623&ring=ff6f61&fire=ffb37e&currStreakLabel=fff5e9&sideLabels=ffb37e&dates=c9a9b0" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🏆 &nbsp;ACHIEVEMENTS
-
-![100 DAYS](https://img.shields.io/badge/🔥-100_DAYS_STREAK-ff6f61?style=for-the-badge&labelColor=241623)
-![NIGHT OWL](https://img.shields.io/badge/🌙-NIGHT_OWL-e8524a?style=for-the-badge&labelColor=241623)
-![COMMIT MASTER](https://img.shields.io/badge/💾-COMMIT_MASTER-c1443c?style=for-the-badge&labelColor=241623)
-![OG PLAYER](https://img.shields.io/badge/🕹️-OG_PLAYER-ffb37e?style=for-the-badge&labelColor=241623)
-
-</div>
-
-<br/>
-
-<div align="center">
-
 ### 🐍 &nbsp;THE GRID
 
 <img src="https://raw.githubusercontent.com/resccrew/resccrew/output/github-contribution-grid-snake-dark.svg" width="100%"/>
