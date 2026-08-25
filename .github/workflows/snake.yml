@@ -20,8 +20,7 @@ jobs:
         with:
           github_user_name: resccrew
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-gold.svg?color_snake=%23f2d675&color_dots=%230a0a0a,%233a2f10,%23705a1c,%23b3902c,%23d4af37&color_dots_border=%23000000
 
       - name: Push snake svg to output branch
         uses: crazy-max/ghaction-github-pages@v4

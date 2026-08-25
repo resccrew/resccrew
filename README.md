@@ -1,23 +1,13 @@
 <!--
-  Персональный pixel-art / synthwave-sunset профиль.
-  Хочешь поменять текст HUD или ник — просто отредактируй строки ниже,
-  никаких внешних данных подтягивать не нужно, всё лежит прямо в этом файле.
-  Баннеры (assets/skyline.svg, assets/skyline-footer.svg) нарисованы вручную
-  и хранятся в этом репозитории — не зависят от сторонних сервисов.
+  New Money — dark, gold-accented profile theme.
+  To change the headline text, edit the `lines=` parameter in the typing-svg URL below.
+  Images live in assets/ and are hosted in this repo — no external image dependencies
+  except the typing-svg and shields.io badge renderers.
 -->
 
 <div align="center">
 
-<img src="assets/skyline.svg?v=2" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=FFB37E&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=110&lines=LOADING+PROFILE...;PLAYER+ONE+READY;PRESS+START+%F0%9F%95%B9%EF%B8%8F" />
-
-<br/>
-
-![HP](https://img.shields.io/badge/HP-100%2F100-ff6f61?style=for-the-badge&labelColor=241623)
-![MP](https://img.shields.io/badge/MP-99%2F99-ffb37e?style=for-the-badge&labelColor=241623)
-![LVL](https://img.shields.io/badge/LVL-99-7c5b6b?style=for-the-badge&labelColor=241623)
-![STATUS](https://img.shields.io/badge/STATUS-ONLINE-39ff14?style=for-the-badge&labelColor=241623)
+<img src="assets/hero-eyes.jpg" width="100%"/>
 
 </div>
 
@@ -25,7 +15,25 @@
 
 <div align="center">
 
-### 🕹️ &nbsp;PLAYER LOG
+<img src="https://readme-typing-svg.demolab.com/?font=Bebas+Neue&size=32&duration=2800&pause=1200&color=D4AF37&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=BUILT+QUIET.;PAID+LOUD.;OLD+DISCIPLINE%2C+NEW+MONEY.;COMPOUND+OR+NOTHING." />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![STATUS](https://img.shields.io/badge/STATUS-ONLINE-D4AF37?style=for-the-badge&labelColor=000000)
+![FOCUS](https://img.shields.io/badge/FOCUS-SHIPPING-D4AF37?style=for-the-badge&labelColor=000000)
+![MODE](https://img.shields.io/badge/MODE-LOCKED%20IN-D4AF37?style=for-the-badge&labelColor=000000)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### &nbsp;LOG
 
 </div>
 
@@ -33,13 +41,13 @@
 > whoami
 resccrew
 
-> class
-entrepreneur 
+> role
+entrepreneur
 
-> current_quest
+> current_focus
 Building things worth shipping.
 
-> inventory
+> toolkit
 [ espresso ]  [ claude code ]  [ velo ]  [ lock in ]
 ```
 
@@ -47,9 +55,9 @@ Building things worth shipping.
 
 <div align="center">
 
-### 🐍 &nbsp;THE GRID
+<img src="assets/lifestyle-court.jpg" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/resccrew/resccrew/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<sub><i>built for the view, not the applause</i></sub>
 
 </div>
 
@@ -57,10 +65,20 @@ Building things worth shipping.
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=resccrew&color=ff6f61&style=for-the-badge&label=VISITORS&labelColor=241623)
+### &nbsp;CONTRIBUTIONS
 
-<img src="assets/skyline-footer.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/resccrew/resccrew/output/github-contribution-grid-snake-gold.svg" width="100%"/>
 
-**`> GAME OVER? NOT YET.`**
+</div>
+
+<br/>
+
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=resccrew&color=D4AF37&style=for-the-badge&label=VISITORS&labelColor=000000)
+
+<img src="assets/skyline-gold.svg" width="100%"/>
+
+**`> STILL BUILDING.`**
 
 </div>
