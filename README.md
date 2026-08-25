@@ -15,7 +15,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Bebas+Neue&size=32&duration=2800&pause=1200&color=D4AF37&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=BUILT+QUIET.;PAID+LOUD.;OLD+DISCIPLINE%2C+NEW+MONEY.;COMPOUND+OR+NOTHING." />
+<img src="https://readme-typing-svg.demolab.com/?font=Bebas+Neue&size=32&duration=2800&pause=1200&color=D4AF37&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=BUILT+QUIET.;PAID+LOUD.;OLD+DISCIPLINE%2C+NEW+MONEY.;COMPOUND+OR+NOTHING." />
 
 </div>
 
@@ -67,7 +67,7 @@ Building things worth shipping.
 
 ### &nbsp;CONTRIBUTIONS
 
-<img src="https://raw.githubusercontent.com/resccrew/resccrew/output/github-contribution-grid-snake-gold.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/resccrew/resccrew/output/github-contribution-grid-snake-gold.svg?v=2" width="100%"/>
 
 </div>
 
