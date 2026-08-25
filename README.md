@@ -60,15 +60,3 @@ Building things worth shipping.
 <sub><i>built for the view, not the applause</i></sub>
 
 </div>
-
-<br/>
-
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=resccrew&color=D4AF37&style=for-the-badge&label=VISITORS&labelColor=000000)
-
-<img src="assets/skyline-gold.svg" width="100%"/>
-
-**`> STILL BUILDING.`**
-
-</div>
