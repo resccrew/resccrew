@@ -65,16 +65,6 @@ Building things worth shipping.
 
 <div align="center">
 
-### &nbsp;CONTRIBUTIONS
-
-<img src="https://raw.githubusercontent.com/resccrew/resccrew/output/github-contribution-grid-snake-gold.svg?v=2" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
 ![Profile views](https://komarev.com/ghpvc/?username=resccrew&color=D4AF37&style=for-the-badge&label=VISITORS&labelColor=000000)
 
 <img src="assets/skyline-gold.svg" width="100%"/>
